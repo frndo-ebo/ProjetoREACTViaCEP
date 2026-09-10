@@ -1,9 +1,5 @@
 # 🗺️ ViaCEP Finder - Fullstack Hub
 
-[![React](https://shields.io)](https://react.dev)
-[![Node.js](https://shields.io)](https://nodejs.org)
-[![Express](https://shields.io)](https://expressjs.com)
-
 > Uma aplicação fullstack completa e otimizada que consome a API do ViaCEP. O backend atua como um proxy seguro e inteligente, tratando os dados e aplicando cache, enquanto o frontend entrega uma interface fluida, responsiva e com excelente experiência de usuário (UX).
 
 ---
